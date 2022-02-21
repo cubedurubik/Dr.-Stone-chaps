@@ -4,5 +4,16 @@
   "artist": "Boichi",
   "author": "Riichirō Inagaki",
   "cover": "https://www.nautiljon.com/images/manga_volumes/12/27/dr_stone_24960572.jpg",
-  "chapters": {}
+  "chapters": {
+    "230": {
+      "title": "230",
+      "volume": "26",
+      "last_updated": "1645474637",
+      "groups": {
+        "@Dr_StoneFR": [
+          "https://imgur.com/a/MjEgrjK"
+        ]
+      }
+    }
+  }
 }
